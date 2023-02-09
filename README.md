@@ -7,7 +7,7 @@ Soy un estudiante de ingeniería de software. Me apasiona la tecnología y estoy
 ![code](https://www.nosequeestudiar.net/site/assets/files/269872/analista_programador_hr.300x200.jpg)
 
 ## Proyectos
-Aquí hay algunos de mis proyectos más destacados:
+Aquí hay algunos de mis proyectos:
 - [Editor Markdown](https://github.com/tar83/Markdown-Editor): Un simple editor Markdown que funciona desde la línea de comandos.
 
 - [Tres en Raya](https://github.com/tar83/Simple-Tic-Tac-Toe): El juego tres en raya desde la línea de comandos.

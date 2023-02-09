@@ -16,7 +16,5 @@ Aquí hay algunos de mis proyectos:
 
 - [Calculadora de Impuestos](https://github.com/tar83/Loan-Calculator): Calculadora que determina el pago total de un préstamo, impuestos y el pago por cada periodo (pago mensual).
 
-## Contacto
-Si desea contactarme, puede hacerlo a través de mi correo electrónico [aquí](mailto:example@example.com).
 
 Gracias por visitar mi sitio en GitHub Pages. ¡Espero que lo encuentre útil y interesante!

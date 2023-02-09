@@ -8,11 +8,13 @@ Soy un estudiante de ingeniería de software. Me apasiona la tecnología y estoy
 
 ## Proyectos
 Aquí hay algunos de mis proyectos más destacados:
-- [Proyecto 1](#): Una descripción breve del proyecto 1.
+- [Editor Markdown](https://github.com/tar83/Markdown-Editor): Un simple editor Markdown que funciona desde la línea de comandos.
 
-- [Proyecto 2](#): Una descripción breve del proyecto 2.
+- [Tres en Raya](https://github.com/tar83/Simple-Tic-Tac-Toe): El juego tres en raya desde la línea de comandos.
 
-- [Proyecto 3](#): Una descripción breve del proyecto 3.
+- [Last Pencil](https://github.com/tar83/Last-Pencil): Last pencil es un juego de turnos donde cada jugador debe agarrar entre 1, 2 o 3 lápices, pierde el jugador que agarra el último lápiz.
+
+- [Calculadora de Impuestos](https://github.com/tar83/Loan-Calculator): Calculadora que determina el pago total de un préstamo, impuestos y el pago por cada periodo (pago mensual).
 
 ## Contacto
 Si desea contactarme, puede hacerlo a través de mi correo electrónico [aquí](mailto:example@example.com).
